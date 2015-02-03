@@ -22,5 +22,8 @@ layout: home
         </ul>
     </div>
     <div class="aside">
+        <p style = 'position: absolute; bottom: 0; color: #ccc; margin-left: 10px; margin-bottom: 15px; opacity: 0.8; font-size: 12px;'>
+            Copyright &copy; 2014 - Theme by <a href = 'https://github.com/beiyuu/Github-Pages-Example '>BeiYuu</a>
+        </p>
     </div>
 </div>
