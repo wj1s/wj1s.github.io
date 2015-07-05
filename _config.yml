@@ -7,7 +7,7 @@ permalink: /:title
 
 title: wj1s.github.io
 url: http://wj1s.github.io
-feed: /atom.xml
+feed: /feed.xml
 author_info: <a href="http://wj1s.github.io/">WangJian</a>
 
 name: Wang Jian's Blog
